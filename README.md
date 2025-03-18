@@ -52,8 +52,8 @@
 *   **AddEditDriverForm.cs, AddEditOrderForm.cs:** Формы для добавления и редактирования информации о водителях и заказах.
 *   **BaseEditForm.cs:** Базовый класс для форм AddEdit.
 *   **Driver.cs, Order.cs:** Классы модели данных.
-*   **DatabaseHelper.cs:** Слой доступа к данным с использованием Dapper.
-*   **Services/DriverOrderService.cs:** Слой бизнес-логики.
+*   **DatabaseHelper.cs:** Доступ к данным .
+*   **DriverOrder.cs:** Бизнес-логика.
 
 ## Возможные улучшения
 
