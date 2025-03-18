@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DriversAndOrders.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BackupPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+%USERPROFILE%\Documents\DriversAndOrdersBackups</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
